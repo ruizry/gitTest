@@ -1,5 +1,10 @@
-Project name:            virtual_dr (product announcement page)
+<dl>
+  <dt>#Project Name:</dt>
+  <dd>virtual_dr (<em>product announcement page</em>)</dd>
 
-Project Description:     This is the Final Project assignment for the Version Control Course.
+  <dt>#Project Description:</dt>
+  <dd>This is the Final Project assignment for the Version Control Course.</dd>
 
-Project Intentions:      This drill will demonstrate how developers may remotely collaborate to complete a project.
+  <dt>#Project Intentions:</dt>
+  <dd>This drill will demonstrate how developers may remotely collaborate to complete a project.</dd>
+</dl>
